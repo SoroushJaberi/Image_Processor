@@ -30,9 +30,13 @@ Click "Clear" to discard any changes and revert to the original image.
 Ensure you have the following prerequisites installed:
 
 .Python
+
 .Tkinter
+
 .OpenCV (cv2)
+
 .Pillow (PIL)
+
 .Matplotlib
 
 # You can install the necessary Python libraries using pip:
@@ -44,7 +48,7 @@ pip install matplotlib
 
 # Installation
 Clone this repository to get started:
-git clone https://github.com/[Your_GitHub_Username]/Image_Processor.git
+git clone https://github.com/SoroushJaberi/Image_Processor.git
 
 After cloning, navigate to the cloned directory and run the script:
 python image_processor.py
