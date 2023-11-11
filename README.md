@@ -59,8 +59,8 @@ python image_processor.py
 
 # example
 ![alt text](https://github.com/SoroushJaberi/Image_Processor/blob/a81684bbbede1b3477a3785212da15281d3945eb/1before.png)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/SoroushJaberi/Image_Processor/blob/61a80e3b4939835973d62b8940553c331eb2b31a/2after.png)
+![alt text](https://github.com/SoroushJaberi/Image_Processor/blob/61a80e3b4939835973d62b8940553c331eb2b31a/3edge.png)
 
 
 
