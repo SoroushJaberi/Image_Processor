@@ -56,6 +56,12 @@ After cloning, navigate to the cloned directory and run the script:
 python image_processor.py
 
 
+
+# example
+
+
+
+
 # Contribute
 Contributions to Image_Processor are welcome! You can contribute by submitting issues, providing fixes/improvements, or by suggesting new features.
 
