@@ -41,7 +41,9 @@ Ensure you have the following prerequisites installed:
 
 # You can install the necessary Python libraries using pip:
 pip install opencv-python
+
 pip install Pillow
+
 pip install matplotlib
 
 (Tkinter typically comes bundled with Python. If for some reason it's not included in your installation, you may need to install it separately.)
